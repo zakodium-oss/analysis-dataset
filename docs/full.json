@@ -2,91 +2,91 @@
   {
     "name": "jdb11-1.mpr",
     "size": 2465718,
-    "webkitRelativePath": "data/biologic/jdb11-1/jdb11-1.mpr",
+    "relativePath": "data/biologic/jdb11-1/jdb11-1.mpr",
     "lastModified": 1662726816877
   },
   {
     "name": "jdb11-1.mps",
     "size": 4330,
-    "webkitRelativePath": "data/biologic/jdb11-1/jdb11-1.mps",
+    "relativePath": "data/biologic/jdb11-1/jdb11-1.mps",
     "lastModified": 1662726816877
   },
   {
     "name": "jdb11-4.mpr",
     "size": 2041303,
-    "webkitRelativePath": "data/biologic/jdb11-4/jdb11-4.mpr",
+    "relativePath": "data/biologic/jdb11-4/jdb11-4.mpr",
     "lastModified": 1662726816890
   },
   {
     "name": "jdb11-4.mps",
     "size": 9648,
-    "webkitRelativePath": "data/biologic/jdb11-4/jdb11-4.mps",
+    "relativePath": "data/biologic/jdb11-4/jdb11-4.mps",
     "lastModified": 1662726816891
   },
   {
     "name": "1h.jdx",
     "size": 175555,
-    "webkitRelativePath": "data/jdx/1h.jdx",
+    "relativePath": "data/jdx/1h.jdx",
     "lastModified": 1662726816892
   },
   {
     "name": "ir.jdx",
     "size": 8374,
-    "webkitRelativePath": "data/jdx/ir.jdx",
+    "relativePath": "data/jdx/ir.jdx",
     "lastModified": 1662726816892
   },
   {
     "name": "ir2.jdx",
     "size": 19578,
-    "webkitRelativePath": "data/jdx/ir2.jdx",
+    "relativePath": "data/jdx/ir2.jdx",
     "lastModified": 1662726816892
   },
   {
     "name": "tree-uv.jdx",
     "size": 36115,
-    "webkitRelativePath": "data/jdx/tree-uv.jdx",
+    "relativePath": "data/jdx/tree-uv.jdx",
     "lastModified": 1662726816892
   },
   {
     "name": "structure.mol",
     "size": 496,
-    "webkitRelativePath": "data/molfile/structure.mol",
+    "relativePath": "data/molfile/structure.mol",
     "lastModified": 1662726816892
   },
   {
     "name": "ir.spc",
     "size": 8088,
-    "webkitRelativePath": "data/spc/ir.spc",
+    "relativePath": "data/spc/ir.spc",
     "lastModified": 1662726816893
   },
   {
     "name": "raman.spc",
     "size": 15319,
-    "webkitRelativePath": "data/spc/raman.spc",
+    "relativePath": "data/spc/raman.spc",
     "lastModified": 1662726816893
   },
   {
     "name": "ir.asc",
     "size": 85648,
-    "webkitRelativePath": "data/txt/ir.asc",
+    "relativePath": "data/txt/ir.asc",
     "lastModified": 1662726816893
   },
   {
     "name": "mass.txt",
     "size": 358,
-    "webkitRelativePath": "data/txt/mass.txt",
+    "relativePath": "data/txt/mass.txt",
     "lastModified": 1662726816893
   },
   {
     "name": "uv.csv",
     "size": 6327,
-    "webkitRelativePath": "data/txt/uv.csv",
+    "relativePath": "data/txt/uv.csv",
     "lastModified": 1662726816893
   },
   {
     "name": "6x6.wdf",
     "size": 493309,
-    "webkitRelativePath": "data/wdf/6x6.wdf",
+    "relativePath": "data/wdf/6x6.wdf",
     "lastModified": 1662726816895
   }
 ]
