@@ -9,6 +9,15 @@ await writeFile(
   JSON.stringify(files, undefined, 2)
 );
 
+await writeFile(
+  join(__dirname, "jdx.json"),
+  JSON.stringify(
+    files.filter((file) => file.relativePath.includes("/jdx/")),
+    undefined,
+    2
+  )
+);
+
 async function getJSON(basedir) {
   let files = [];
   await appendFiles(files, basedir, "data");
