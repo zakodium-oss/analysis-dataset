@@ -27,6 +27,15 @@ await writeFile(
   )
 );
 
+await writeFile(
+  join(__dirname, "uvvis.json"),
+  JSON.stringify(
+    files.filter((file) => file.relativePath.includes("/cary500")),
+    undefined,
+    2
+  )
+);
+
 async function getJSON(basedir) {
   let files = [];
   await appendFiles(files, basedir, "data");
