@@ -36,6 +36,24 @@ await writeFile(
   )
 );
 
+await writeFile(
+  join(__dirname, "hplc.json"),
+  JSON.stringify(
+    files.filter((file) => file.relativePath.includes("/agilent-hplc")),
+    undefined,
+    2
+  )
+);
+
+await writeFile(
+  join(__dirname, "gcms.json"),
+  JSON.stringify(
+    files.filter((file) => file.relativePath.includes("/agilent-gcms")),
+    undefined,
+    2
+  )
+);
+
 async function getJSON(basedir) {
   let files = [];
   await appendFiles(files, basedir, "data");
