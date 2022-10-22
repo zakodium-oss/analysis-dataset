@@ -24,6 +24,18 @@
     "lastModified": 1662726816891
   },
   {
+    "name": "agilent-gcms.cdf",
+    "size": 2517393,
+    "relativePath": "data/cdf/agilent-gcms.cdf",
+    "lastModified": 1666425586287
+  },
+  {
+    "name": "agilent-hplc.cdf",
+    "size": 21508,
+    "relativePath": "data/cdf/agilent-hplc.cdf",
+    "lastModified": 1666425586294
+  },
+  {
     "name": "1h.jdx",
     "size": 175555,
     "relativePath": "data/jdx/1h.jdx",
