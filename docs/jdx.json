@@ -2,31 +2,31 @@
   {
     "name": "1h.jdx",
     "size": 175555,
-    "relativePath": "data/jdx/1h.jdx",
+    "relativePath": "data/format/jdx/1h.jdx",
     "lastModified": 1662726816892
   },
   {
     "name": "ir.jdx",
     "size": 8374,
-    "relativePath": "data/jdx/ir.jdx",
+    "relativePath": "data/format/jdx/ir.jdx",
     "lastModified": 1662726816892
   },
   {
     "name": "ir2.jdx",
     "size": 19578,
-    "relativePath": "data/jdx/ir2.jdx",
+    "relativePath": "data/format/jdx/ir2.jdx",
     "lastModified": 1662726816892
   },
   {
     "name": "mass.jdx",
     "size": 832,
-    "relativePath": "data/jdx/mass.jdx",
+    "relativePath": "data/format/jdx/mass.jdx",
     "lastModified": 1666110626069
   },
   {
     "name": "tree-uv.jdx",
     "size": 36115,
-    "relativePath": "data/jdx/tree-uv.jdx",
+    "relativePath": "data/format/jdx/tree-uv.jdx",
     "lastModified": 1662726816892
   }
 ]

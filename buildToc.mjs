@@ -12,7 +12,7 @@ await writeFile(
 await writeFile(
   join(__dirname, "jdx.json"),
   JSON.stringify(
-    files.filter((file) => file.relativePath.includes("/jdx/")),
+    files.filter((file) => file.relativePath.includes("/format/jdx/")),
     undefined,
     2
   )
@@ -21,7 +21,7 @@ await writeFile(
 await writeFile(
   join(__dirname, "biologic.json"),
   JSON.stringify(
-    files.filter((file) => file.relativePath.includes("/biologic/")),
+    files.filter((file) => file.relativePath.includes("/format/biologic/")),
     undefined,
     2
   )
@@ -49,6 +49,15 @@ await writeFile(
   join(__dirname, "gcms.json"),
   JSON.stringify(
     files.filter((file) => file.relativePath.includes("/agilent-gcms")),
+    undefined,
+    2
+  )
+);
+
+await writeFile(
+  join(__dirname, "mass.json"),
+  JSON.stringify(
+    files.filter((file) => file.relativePath.includes("/measurement/mass")),
     undefined,
     2
   )
