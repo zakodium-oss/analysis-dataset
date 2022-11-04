@@ -1,26 +1,176 @@
 [
   {
+    "name": "ca.mpr",
+    "size": 70579,
+    "relativePath": "data/format/biologic/ca/ca.mpr",
+    "lastModified": 1667554522024
+  },
+  {
+    "name": "ca.mpt",
+    "size": 257762,
+    "relativePath": "data/format/biologic/ca/ca.mpt",
+    "lastModified": 1667554522044
+  },
+  {
+    "name": "cp.mpr",
+    "size": 20955,
+    "relativePath": "data/format/biologic/cp/cp.mpr",
+    "lastModified": 1667554522024
+  },
+  {
+    "name": "cp.mpt",
+    "size": 38018,
+    "relativePath": "data/format/biologic/cp/cp.mpt",
+    "lastModified": 1667554522044
+  },
+  {
+    "name": "cv.mpr",
+    "size": 194202,
+    "relativePath": "data/format/biologic/cv/cv.mpr",
+    "lastModified": 1667554522024
+  },
+  {
+    "name": "cv.mpt",
+    "size": 714868,
+    "relativePath": "data/format/biologic/cv/cv.mpt",
+    "lastModified": 1667554522048
+  },
+  {
+    "name": "gcpl.mpr",
+    "size": 962066,
+    "relativePath": "data/format/biologic/gcpl/gcpl.mpr",
+    "lastModified": 1667554522032
+  },
+  {
+    "name": "gcpl.mpt",
+    "size": 5222522,
+    "relativePath": "data/format/biologic/gcpl/gcpl.mpt",
+    "lastModified": 1667554522072
+  },
+  {
+    "name": "geis.mpr",
+    "size": 305902,
+    "relativePath": "data/format/biologic/geis/geis.mpr",
+    "lastModified": 1667554522032
+  },
+  {
+    "name": "geis.mpt",
+    "size": 1261844,
+    "relativePath": "data/format/biologic/geis/geis.mpt",
+    "lastModified": 1667554522076
+  },
+  {
     "name": "jdb11-1.mpr",
     "size": 2465718,
     "relativePath": "data/format/biologic/jdb11-1/jdb11-1.mpr",
-    "lastModified": 1662726816877
+    "lastModified": 1667554250741
   },
   {
     "name": "jdb11-1.mps",
     "size": 4330,
     "relativePath": "data/format/biologic/jdb11-1/jdb11-1.mps",
-    "lastModified": 1662726816877
+    "lastModified": 1667554250741
   },
   {
     "name": "jdb11-4.mpr",
     "size": 2041303,
     "relativePath": "data/format/biologic/jdb11-4/jdb11-4.mpr",
-    "lastModified": 1662726816890
+    "lastModified": 1667554250769
   },
   {
     "name": "jdb11-4.mps",
     "size": 9648,
     "relativePath": "data/format/biologic/jdb11-4/jdb11-4.mps",
-    "lastModified": 1662726816891
+    "lastModified": 1667554250769
+  },
+  {
+    "name": "lsv.mpr",
+    "size": 56562,
+    "relativePath": "data/format/biologic/lsv/lsv.mpr",
+    "lastModified": 1667554522036
+  },
+  {
+    "name": "lsv.mpt",
+    "size": 182114,
+    "relativePath": "data/format/biologic/lsv/lsv.mpt",
+    "lastModified": 1667554522080
+  },
+  {
+    "name": "mb.mpr",
+    "size": 190445,
+    "relativePath": "data/format/biologic/mb/mb.mpr",
+    "lastModified": 1667554522036
+  },
+  {
+    "name": "mb.mpt",
+    "size": 930822,
+    "relativePath": "data/format/biologic/mb/mb.mpt",
+    "lastModified": 1667554522084
+  },
+  {
+    "name": "ocv.mpr",
+    "size": 29034,
+    "relativePath": "data/format/biologic/ocv/ocv.mpr",
+    "lastModified": 1667554522036
+  },
+  {
+    "name": "ocv.mpt",
+    "size": 26982,
+    "relativePath": "data/format/biologic/ocv/ocv.mpt",
+    "lastModified": 1667554522084
+  },
+  {
+    "name": "peis.mpr",
+    "size": 18684,
+    "relativePath": "data/format/biologic/peis/peis.mpr",
+    "lastModified": 1667554522036
+  },
+  {
+    "name": "peis.mpt",
+    "size": 17950,
+    "relativePath": "data/format/biologic/peis/peis.mpt",
+    "lastModified": 1667554522084
+  },
+  {
+    "name": "vsp_ocv_with.mpr",
+    "size": 7998,
+    "relativePath": "data/format/biologic/vsp_ocv_with.mpr",
+    "lastModified": 1667554522040
+  },
+  {
+    "name": "vsp_ocv_wo.mpr",
+    "size": 16864,
+    "relativePath": "data/format/biologic/vsp_ocv_wo.mpr",
+    "lastModified": 1667554522040
+  },
+  {
+    "name": "vsp_peis_with.mpr",
+    "size": 187015,
+    "relativePath": "data/format/biologic/vsp_peis_with.mpr",
+    "lastModified": 1667554522040
+  },
+  {
+    "name": "wait.mpr",
+    "size": 14992,
+    "relativePath": "data/format/biologic/wait/wait.mpr",
+    "lastModified": 1667554522040
+  },
+  {
+    "name": "wait.mpt",
+    "size": 1503,
+    "relativePath": "data/format/biologic/wait/wait.mpt",
+    "lastModified": 1667554522084
+  },
+  {
+    "name": "zir.mpr",
+    "size": 5411,
+    "relativePath": "data/format/biologic/zir/zir.mpr",
+    "lastModified": 1667554522040
+  },
+  {
+    "name": "zir.mpt",
+    "size": 1847,
+    "relativePath": "data/format/biologic/zir/zir.mpt",
+    "lastModified": 1667554522084
   }
 ]
