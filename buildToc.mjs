@@ -28,6 +28,15 @@ await writeFile(
 );
 
 await writeFile(
+  join(__dirname, "bigmap.json"),
+  JSON.stringify(
+    files.filter((file) => file.relativePath.includes("/format/biologic/jdb")),
+    undefined,
+    2
+  )
+);
+
+await writeFile(
   join(__dirname, "uvvis.json"),
   JSON.stringify(
     files.filter((file) => file.relativePath.includes("/cary500")),
